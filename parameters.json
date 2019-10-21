@@ -1,0 +1,93 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualNetworks_aw_vnet_name": {
+            "value": null
+        },
+        "virtualMachines_aw_vm_sql_name": {
+            "value": null
+        },
+        "virtualMachines_aw_vm_app1_name": {
+            "value": null
+        },
+        "virtualMachines_aw_vm_app2_name": {
+            "value": null
+        },
+        "networkInterfaces_aw_vm_app112_name": {
+            "value": null
+        },
+        "networkInterfaces_aw_vm_sql429_name": {
+            "value": null
+        },
+        "publicIPAddresses_aw_vm_sql_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_awvmsqlip377_name": {
+            "value": null
+        },
+        "publicIPAddresses_awvmsqlip607_name": {
+            "value": null
+        },
+        "publicIPAddresses_awvmsqlip827_name": {
+            "value": null
+        },
+        "publicIPAddresses_awvmsqlip990_name": {
+            "value": null
+        },
+        "networkInterfaces_aw_vm_app2564_name": {
+            "value": null
+        },
+        "publicIPAddresses_aw_vm_app1_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_awvmapp1ip108_name": {
+            "value": null
+        },
+        "publicIPAddresses_aw_vm_app2_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_awvmapp2ip159_name": {
+            "value": null
+        },
+        "publicIPAddresses_front_gateway_name": {
+            "value": null
+        },
+        "applicationGateways_aw_app_gateway_name": {
+            "value": null
+        },
+        "networkSecurityGroups_aw_vm_sql_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_awvmsqlnsg460_name": {
+            "value": null
+        },
+        "networkSecurityGroups_awvmsqlnsg496_name": {
+            "value": null
+        },
+        "networkSecurityGroups_awvmsqlnsg562_name": {
+            "value": null
+        },
+        "networkSecurityGroups_awvmsqlnsg882_name": {
+            "value": null
+        },
+        "networkSecurityGroups_aw_vm_app1_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_awvmapp1nsg776_name": {
+            "value": null
+        },
+        "networkSecurityGroups_aw_vm_app2_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_awvmapp2nsg325_name": {
+            "value": null
+        },
+        "storageAccounts_adventureworksrgdisks_name": {
+            "value": null
+        },
+        "sqlVirtualMachines_aw_vm_sql_name": {
+            "value": null
+        }
+    }
+}
